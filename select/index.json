@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Maria",
+  "base_artist": "Hwa Sa",
+  "createdAt": "2026-02-12T17:15:29.047602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Maria",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_My_Maria_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maria",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/02_Maria_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Maria",
+      "artist": "Ken Ring",
+      "has_synced": false,
+      "path": "select/03_Maria_Ken_Ring.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maria (feat. Cappadonna)",
+      "artist": "Wu-Tang Clan feat. Cappadonna",
+      "has_synced": false,
+      "path": "select/04_Maria_(feat._Cappadonna)_Wu-Tang_Clan_feat._Cappadonna.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Maria",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/05_Maria_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drunken Maria",
+      "artist": "The Monks",
+      "has_synced": false,
+      "path": "select/06_Drunken_Maria_The_Monks.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Santa Maria",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_Santa_Maria_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maria, the Poet - 1913",
+      "artist": "Max Richter",
+      "has_synced": false,
+      "path": "select/08_Maria,_the_Poet_-_1913_Max_Richter.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ave Maria",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/09_Ave_Maria_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Maria",
+      "artist": "Utopia",
+      "has_synced": false,
+      "path": "select/10_Black_Maria_Utopia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ave Maria",
+      "artist": "Hayley Westenra",
+      "has_synced": false,
+      "path": "select/11_Ave_Maria_Hayley_Westenra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maria",
+      "artist": "Hwa Sa",
+      "has_synced": false,
+      "path": "select/pl_01_Maria_Hwa_Sa.txt"
+    }
+  ]
+}
